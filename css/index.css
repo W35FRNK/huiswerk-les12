@@ -1,0 +1,148 @@
+body {
+  font-family: Calibri;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+header{
+  height: 70px;
+  width: 800px;
+  background-color: #87CEFA;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+
+#header-p {
+  font-weight: bolder;
+  font-size: 30px;
+  text-align: center;
+  margin: 20px;
+}
+
+.center-page {
+  background-color: #F0F8FF;
+  width: 800px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.table-center {
+  margin-left: auto;
+  margin-right: auto;
+  border-spacing: 1px;
+}
+
+caption {
+  text-align: left;
+  font-style: italic;
+}
+
+td {
+  height: 70px;
+  width: 70px;
+  border-style: solid;
+  text-align: center;
+  align-items: center;
+  font-weight: bold;
+}
+
+
+#c1-1{
+  color: #000000;
+  background-color: #99FFFF;
+}
+
+#c2-1{
+  color: #000000;
+  background-color: #99FFCC;
+}
+
+#c3-1{
+  color: #000000;
+  background-color: #99FF99;
+}
+
+#c4-1{
+  color: #000000;
+  background-color: #99FF66;
+}
+
+
+#c1-2{
+  color: #000000;
+  background-color: #99CCFF;
+}
+
+#c2-2{
+  color: #000000;
+  background-color: #99CCCC;
+}
+
+#c3-2{
+  color: #000000;
+  background-color: #99CC99;
+}
+
+#c4-2{
+  color: #000000;
+  background-color: #99CC66;
+}
+
+
+#c1-3{
+  color: #000000;
+  background-color: #9999FF;
+}
+
+#c2-3{
+  color: #000000;
+  background-color: #9999CC;
+}
+
+#c3-3{
+  color: #000000;
+  background-color: #999999;
+}
+
+#c4-3{
+  color: #000000;
+  background-color: #999966;
+}
+
+
+#c1-4{
+  color: #000000;
+  background-color: #9966FF;
+}
+
+#c2-4{
+  color: #000000;
+  background-color: #9966CC;
+}
+
+#c3-4{
+  color: #000000;
+  background-color: #996699;
+}
+
+#c4-4{
+  color: #000000;
+  background-color: #996666;
+}
+
+footer{
+  height: 80px;
+  width: 800px;
+  background-color: #87CEFA;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+}
+
+#footer-p {
+  font-weight: bolder;
+  font-size: 30px;
+  text-align: center;
+  margin: 20px;
+}
