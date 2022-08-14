@@ -132,7 +132,7 @@ td {
 }
 
 footer{
-  height: 80px;
+  height: 60px;
   width: 800px;
   background-color: #87CEFA;
   border-style: solid;
@@ -144,5 +144,5 @@ footer{
   font-weight: bolder;
   font-size: 30px;
   text-align: center;
-  margin: 20px;
+  margin: 15px;
 }
